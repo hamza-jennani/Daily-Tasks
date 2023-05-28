@@ -1,0 +1,204 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+body {
+    height:843px;
+}
+header nav .nav {
+    display: inline-block;
+    margin-top: 0;
+
+}
+header nav .nav li {
+    display: inline-block;    
+    position: relative;
+    left: 176px;
+    top: 8px;
+    text-transform: capitalize;
+    margin-right: 5px;
+}
+header nav .nav li a {
+    color: black;
+    text-decoration: none;
+}
+header nav .span1 {
+    margin-left: 25px;
+    cursor: pointer;
+
+}
+header nav .span2 {
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.logo {
+    display: inline-block;
+    position: relative;
+    top: 8px;
+}
+header nav {
+    width: 100%;
+    background-color: red;
+    height: 35px;
+    position:fixed;
+    top: 0;
+    z-index: 4;
+}
+header nav .span3 {
+    background-color: #eee;
+    width: 1px;
+    height: 1px;
+    cursor: pointer;
+
+}
+.fa-solid {
+    width: 25px;
+    text-align: center;
+}
+.div1 {
+    position: relative;
+    top: -27px;
+    bottom: 41px;
+    left: 1053px;
+}
+.days {
+    position: relative;
+    top: 46px;
+    text-transform: capitalize;
+    background-color: #eee;
+    height: 898px;
+    width: 290px;
+    padding: 10px 0;
+    z-index: 1;
+}
+.days ul li {
+    list-style-type: none;
+    
+}
+.days .day {
+    font-weight: bold;
+}
+.days ul .li1 {
+ position: relative;
+ bottom: 20px;
+ left: 26px;   
+}
+.days .ul2 .li2{
+    position: relative;
+    bottom: 19px;
+    left: 26px; 
+}
+.days .ul2 .li2 a {
+    text-decoration: none;
+    color: black;
+}
+.days .ul3 .li3 {
+    position: relative;
+    bottom: 20px;
+    left: 26px;  
+}
+.days .ul4 .li4 {
+    position: relative;
+    bottom: 19px;
+    left: 26px; 
+}
+.days .ul4 .li4 a{
+    text-decoration: none;
+    color: black;
+}
+.work {
+    position: relative;
+    bottom: 852px;
+    left: 301px;
+    background-color: #eed9d9;
+    padding: 10px 0;
+    width: 380px;
+    height: 899px;
+    z-index: 1;
+}
+.work ul li{
+    list-style-type: none;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.work .ul5 .li5 {
+    position: relative;
+    bottom: 20px;
+    left: 26px;  
+    
+}
+.work .ul5 .li5 span {
+    font-weight: bold;
+}
+.work .ul6 .li6 {
+    position: relative;
+    bottom: 19px;
+    left: 26px; 
+}
+.work .ul7 .li7 {
+    position: relative;
+    bottom: 19px;
+    left: 26px; 
+}
+.goals {
+    position: relative;
+    bottom: 1766px;
+    left: 691px;
+    background-color: rgb(194, 248, 230);
+    height: 899px;
+    width: 290px;
+    z-index: 1;
+}
+.goals ul li {
+    text-transform: capitalize;
+    list-style-type: none;
+}
+.goals .ul8 .li8 span {
+    font-weight: bold;
+    
+}
+.goals .ul8 .li8 {
+    position: relative;
+    padding: 10px 0;
+    bottom: 3px;
+    left: 26px;
+}
+.goals .ul8 .div8 {
+    position: relative;
+    top: 24px;
+}
+.videos {
+    position: relative;
+    bottom: 2682px;
+    left: 994px;
+    background-color: rgb(201, 216, 248);
+    height: 898px;
+    width: 260px;
+}
+.videos ul li {
+    list-style-type: none;
+    text-transform: capitalize;
+}
+.videos .ul9 .li9 span {
+    font-weight: bold;
+}
+.videos .ul9 .li9 {
+    position: relative;
+    padding: 10px 0;
+    bottom: 6px;
+    left: 32px;
+}
+.videos .ul9 .div9 {
+    position: relative;
+    top: 24px;
+}
+.videos .ul10 .li10 {
+    position: relative;
+    bottom: 20px;
+    left: 30px;
+}
+.videos .ul10 .li10 a {
+    text-decoration: none;
+    color: black;
+}
